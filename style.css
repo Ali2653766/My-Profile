@@ -202,6 +202,8 @@ section {
 .more-details {
     text-decoration: none;
     color: #3a6cf4;
+    margin: 5px;
+    padding: 5px;
 }
 
 .more-details:hover {
